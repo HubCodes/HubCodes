@@ -2,7 +2,7 @@
 
 개발자입니다. 회사에서는 웹 백엔드 업무를 하고 있습니다.
 
-### Interested In
+### Interested in
 
 - Programming language design (Type theory, Programming language theory, ...)
 - Functional programming (F#, Scala, ...)
