@@ -2,6 +2,8 @@
 
 개발자입니다. 회사에서는 웹 백엔드 업무를 하고 있습니다.
 
+꿈은 엔지니어입니다.
+
 ### Interested in
 
 - Programming language design (Type theory, Programming language theory, ...)
