@@ -17,6 +17,7 @@
 ### Side projects
 
 - [minod](https://github.com/HubCodes/minod)
+- [Flat](https://github.com/HubCodes/Flat)
 
 ### Environment
 
