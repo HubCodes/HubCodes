@@ -6,7 +6,7 @@
 
 ### Interested in
 
-- Programming language design (especially Type theory)
+- **Programming language design (especially Type theory)**
 - Functional programming (F#, Scala, ...)
 - System programming (on unix-like systems)
 
